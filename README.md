@@ -23,7 +23,3 @@ This is a game I made during my App Development (CS 305) class as a Junior. We w
   For any questions, please contact me with the information below:
  
   Email: txhakli@gmail.com
-  
-  For just chatting and getting to know me on an unprofessional level:
-  
-  Discord: taulant#1999
