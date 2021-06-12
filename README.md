@@ -7,7 +7,7 @@
   
   
   ## Description
-This is a game I made during my App Development (CS 305) class as a Junior. We were instructed to make any IOS app of our choosing and present it to the class, I chose to fill my portfolio with more game design. Which is why the IOS Space Invaders app idea came to mind, it is both a simple concept and grew to a fun result. This was written entirely in Swift using XCode and some images and sounds that I scavanged throughout the internet. Here is a [video](https://youtu.be/0aFLyDmD71A) showcasing the game and some information to get the viewer to understand the basics.
+This is a game I made during my App Development (CS 305) class as a Junior. We were instructed to make any IOS app of our choosing and present it to the class, I chose to fill my portfolio with more game design. Which is why the IOS Space Invaders app idea came to mind, it is both a simple concept and grew to a fun result. This was written entirely in Swift using XCode and some images and sounds that I scavenged throughout the internet. Here is a [video](https://youtu.be/0aFLyDmD71A) showcasing the game and some information to get the viewer to understand the basics.
 
   
   ## Contributing
